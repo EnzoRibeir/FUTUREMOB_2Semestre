@@ -29,13 +29,6 @@ Este repositório contém a evolução do projeto interdisciplinar da FATEC, **F
 - **Back-end**: PHP
 - **Banco de Dados**: MySQL
 
-## 📂 Estrutura do Projeto
-
-- `/admin`: Tela de administração com todas as funcionalidades para gerenciar a loja.
-- `/login`: Sistema de autenticação e gerenciamento de sessão de usuários.
-- `/categorias`: Filtros dinâmicos para navegação por produtos.
-- `/cadastro`: Formulário de cadastro para novos usuários.
-
 ## 👥 Equipe
 
 Este projeto foi desenvolvido por uma equipe de 6 estudantes da FATEC, com foco em criar uma experiência completa de e-commerce, desde a parte visual até a gestão de dados.
